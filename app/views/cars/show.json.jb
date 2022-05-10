@@ -1,0 +1,8 @@
+{
+  id: @car.id,
+  make: @car.make,
+  model: @car.model,
+  color: @car.color,
+  created_at: @car.created_at,
+  updated_at: @car.updated_at
+}

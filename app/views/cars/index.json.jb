@@ -1,0 +1,6 @@
+@cars.map do |car|
+  {
+    id: car.id,
+    url: car_url(car, format: :json)
+  }
+end
